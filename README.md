@@ -1,4 +1,4 @@
-# KNN-ON-DONORSCHOOSE-DATASET
+# TSNE-ON-DONORSCHOOSE-DATASET
 
 DonorsChoose
 DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right
